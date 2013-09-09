@@ -1,6 +1,7 @@
 # tinypq
 
-A very tiny wrapper for libpq C API to PostgreSQL written in C++ programming language.
+A very tiny wrapper for [libpq](http://www.postgresql.org/docs/9.3/static/libpq.html) 
+C API to PostgreSQL written in C++ programming language.
 
 Requires [C++11](https://en.wikipedia.org/wiki/C%2B%2B11) compiler or later.
 
