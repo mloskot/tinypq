@@ -13,4 +13,4 @@ See accompanying file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_
 
 ## Author
 
-[Mateusz Loskot](http://mateusz.loskot.net) <mateusz@loskot.net>
+[Mateusz Loskot](http://mateusz.loskot.net) <mateusz (at) loskot (dot) net>
